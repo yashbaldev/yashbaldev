@@ -3,7 +3,7 @@
 <!--
 **yashbaldev/yashbaldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-🔭 I’m currently working on a Chrome extension for a fashion recommendation system.
+
 
 
 🌱 I’m currently learning Computer Science and Engineering.
